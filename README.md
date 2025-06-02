@@ -35,24 +35,24 @@ Everything stored securely in MySQL.
 ![Image](https://github.com/user-attachments/assets/47b139aa-03c1-475c-ac9d-818885c96dfd)
 
 
-#ouput
+#ouput order chacking
 
 
 ![Image](https://github.com/user-attachments/assets/62b1f48c-5635-4c36-8f39-1c81a0234b69)
 
-#output
+#output login
 
 
 ![Image](https://github.com/user-attachments/assets/6ef488ef-684f-4ae1-8633-9c38a4cf36ab)
 
-#output
+#output add product
 
 
 ![Image](https://github.com/user-attachments/assets/3dade6ba-425b-4617-87f1-844759ea6b50)
 
 
 
-#output
+#output place order
 
 
 ![Image](https://github.com/user-attachments/assets/d09d45ef-8c37-4ce0-8ead-e79bfda8b98c)
